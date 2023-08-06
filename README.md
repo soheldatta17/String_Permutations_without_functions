@@ -1,6 +1,6 @@
 # String_Permutations_without_functions
 
-Performing String permutations without the us e of functions.
+Performing String permutations without the use of functions.
 
 https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string-1587115620/1
 
